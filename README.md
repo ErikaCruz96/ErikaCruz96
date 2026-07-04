@@ -1,6 +1,7 @@
 ## Olá, eu sou a Érika Cruz 🙋🏻‍♀️
 
 -📖   Estudante de Redes de Computadores com foco em Suporte Técnico, Infraestrutura e Cibersegurança. 
+
 -📧   Contacte-me no e-mail: ribeirodacruzerika@gmail.com  
 
 
